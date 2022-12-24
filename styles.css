@@ -1,2 +1,26 @@
+.holder {
+    background-color: aqua;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    
+}
 
-/* Your CSS Code here. */
+.item1 {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+}
+.item2 {
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
+.item3 {
+    width: 100px;
+    height: 100px;
+    background-color: navy;
+}
